@@ -6,13 +6,13 @@ export const HomeContainer = styled.div`
     flex-direction: column;
     text-align: center;
   }
-  ul {
+  .header-nav ul {
     padding: 10px;
     background-color: beige;
     display: flex;
     justify-content: space-evenly;
   }
-  li {
+  .header-nav li {
     list-style: none;
   }
 `;

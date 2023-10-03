@@ -3,7 +3,7 @@ import Home from "@/pages/Home";
 const BookSearch = () => {
   return (
     <>
-      <Home />
+      {/* <Home /> */}
       <h4>검색결과</h4>
     </>
   );

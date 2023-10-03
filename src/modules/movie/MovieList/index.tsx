@@ -3,7 +3,7 @@ import Home from "@/pages/Home";
 const MovieList = () => {
   return (
     <>
-      <Home />
+      {/* <Home /> */}
       <h2>영화리뷰</h2>
     </>
   );

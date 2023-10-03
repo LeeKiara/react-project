@@ -1,12 +1,12 @@
 import Home from "@/pages/Home";
 
-const PostList = () => {
+const Cart = () => {
   return (
     <>
       {/* <Home /> */}
-      <h2>도서리뷰</h2>
+      <h2>Cart</h2>
     </>
   );
 };
 
-export default PostList;
+export default Cart;

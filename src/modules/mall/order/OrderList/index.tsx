@@ -3,7 +3,7 @@ import Home from "@/pages/Home";
 const OrderList = () => {
   return (
     <>
-      <Home />
+      {/* <Home /> */}
       <h2>주문목록</h2>
     </>
   );
